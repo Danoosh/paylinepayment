@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>paylinepayment</name>
+	<displayName><![CDATA[درگاه پرداخت Payline]]></displayName>
+	<version><![CDATA[2.0]]></version>
+	<description><![CDATA[یک ماژول رایگان برای پرداخت توسط درگاه Payline]]></description>
+	<author><![CDATA[iPresta.ir]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[آیا مطمئن هستید می خواهید جزئیات را حذف کنید ؟]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
